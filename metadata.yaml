@@ -1,0 +1,30 @@
+_repo: The-Men-of-the-Moss-Hags--13-Being-a-history-of-adventure-taken-from-the-papers-of-William-Go__32137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crockett, S. R. (Samuel Rutherford)
+    alias: Crockett, Samuel Rutherford
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '1590'
+    url: http://www.gutenberg.org/2009/agents/1590
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
+description: 'Sequel: Lochinvar, #45495.'
+gutenberg_issued: '2010-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Covenanters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scotland -- History -- 17th century -- Fiction'
+title: "The Men of the Moss-Hags\r\nBeing a history of adventure taken from the papers\
+  \ of William Gordon of Earlstoun in Galloway"
+url: http://www.gutenberg.org/ebooks/32137
