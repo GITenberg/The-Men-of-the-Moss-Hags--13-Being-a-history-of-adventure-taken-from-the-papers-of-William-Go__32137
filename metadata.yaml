@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
 description: 'Sequel: Lochinvar, #45495.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32137#The-Men-of-the-Moss-Hags--13-Being-a-history-of-adventure-taken-from-the-papers-of-William-Go_
 gutenberg_issued: '2010-04-25'
 gutenberg_type: Text
 identifiers:
